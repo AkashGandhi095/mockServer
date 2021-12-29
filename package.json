@@ -80,5 +80,8 @@
     "start": "node server.js"
   },
   "author": "akash_Gandhi",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "worker": "node index.js",
+  "start": "node index.js",
+  "test": "node test.js"
 }
