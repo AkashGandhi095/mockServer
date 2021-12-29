@@ -1,0 +1,124 @@
+[
+  {
+    "category_name": "Measurement Check",
+    "isChecked": false,
+    "subcategory_info": [
+      {
+        "name": "BP",
+        "isSelected": false,
+        "type": "dropdown",
+        "values": ["2 times/day", "3 times/day"],
+        "feedInput_value": "2 times/day",
+        "unit": ""
+      },
+      {
+        "name": "Sp02",
+        "isSelected": false,
+        "type": "dropdown",
+        "values": ["2 times/day", "3 times/day"],
+        "feedInput_value": "2 times/day",
+        "unit": ""
+      },
+      {
+        "name": "HR",
+        "isSelected": false,
+        "type": "dropdown",
+        "values": ["2 times/day", "3 times/day"],
+        "feedInput_value": "2 times/day",
+        "unit": ""
+      },
+      {
+        "name": "Temperature",
+        "isSelected": false,
+        "type": "dropdown",
+        "values": ["2 times/day", "3 times/day"],
+        "feedInput_value": "2 times/day",
+        "unit": ""
+      },
+      {
+        "name": "Urine",
+        "isSelected": false,
+        "type": "dropdown",
+        "values": ["2 times/day", "3 times/day"],
+        "feedInput_value": "2 times/day",
+        "unit": ""
+      }
+    ]
+  },
+
+  {
+    "category_name": "Nutrition Plan",
+    "isChecked": false,
+    "subcategory_info": [
+      {
+        "name": "Sodium",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "gm/day"
+      },
+      {
+        "name": "Protein",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "gm/day"
+      },
+      {
+        "name": "Phosphorous",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "gm/day"
+      }
+    ]
+  },
+
+  {
+    "category_name": "Fluid Plan",
+    "isChecked": false,
+    "subcategory_info": [
+      {
+        "name": "Water",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "mL/day"
+      }
+    ]
+  },
+
+  {
+    "category_name": "Activity Plan",
+    "isChecked": false,
+    "subcategory_info": [
+      {
+        "name": "Walking",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "Mins/day"
+      }
+    ]
+  },
+
+  {
+    "category_name": "Symptom Check",
+    "isChecked": false,
+    "subcategory_info": [
+      {
+        "name": "Assessment",
+        "isSelected": false,
+        "type": "input",
+        "values": [],
+        "feedInput_value": "",
+        "unit": "Mins/day"
+      }
+    ]
+  }
+]
