@@ -5,30 +5,193 @@
     "prescribed_by": "Dr Chetan",
     "raw_data": {
       "user_id": 198,
-      "monitoring_data": [
+      "measurement_check": [
         {
-          "category_name": "Blood Pressure",
+          "category_name": "BP",
           "week_data": [
-            { "value": "Mon", "label": "Mon" },
-            { "value": "Tue", "label": "Tue" },
-            { "value": "Wed", "label": "Wed" },
-            { "value": "Thu", "label": "Thu" },
-            { "value": "Fri", "label": "Fri" },
-            { "value": "Sat", "label": "Sat" },
-            { "value": "Sun", "label": "Sun" }
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
           ],
           "days": [
-            { "value": "Morning", "label": "Morning" },
-            { "value": "Afternoon", "label": "Afternoon" },
-            { "value": "Evening", "label": "Evening" }
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "Glucose",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "FBG",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "RBG",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "PPG",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "Weight",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "SpO2",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "HeartRate",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "Temperature",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
+          ],
+          "unit": null
+        },
+        {
+          "category_name": "Edema Check",
+          "week_data": [
+            { "value": 1, "label": "Mon" },
+            { "value": 2, "label": "Tue" },
+            { "value": 3, "label": "Wed" },
+            { "value": 4, "label": "Thu" },
+            { "value": 5, "label": "Fri" },
+            { "value": 6, "label": "Sat" },
+            { "value": 7, "label": "Sun" }
+          ],
+          "days": [
+            { "value": 0, "label": "Morning" },
+            { "value": 1, "label": "Afternoon" },
+            { "value": 2, "label": "Evening" }
           ],
           "unit": null
         }
+
       ],
       "examination": "Patient is hypertensive and hypoglycemic",
       "diagnosis": "Patient is anxious and hypertensive",
       "symptoms": [{ "name": "fever" }, { "name": "anxiety" }],
-      "medicine": [
+      "medication": [
         {
           "id": 1,
           "start_date": "30-12-2021",
@@ -58,6 +221,71 @@
           "medicine_id": "1Hbght"
         }
       ],
+      "nutritionPlan" : [
+        {
+          "categoryName" : "Meals" ,
+          "total" : 3,
+          "completed" : 1,
+          "unit" : "mg"
+        } , 
+        {
+          "categoryName" : "Calorie Intake",
+          "total" : 50 ,
+          "completed" : 25,
+          "unit" : "mg"
+        },
+        {
+          "categoryName" : "Sodium",
+          "total" : 200 ,
+          "completed" : 25,
+          "unit" : "mg"
+        }, 
+        {
+          "categoryName" : "Protein",
+          "total" : 500 ,
+          "completed" : 250,
+          "unit" : "mg"
+        },
+        {
+          "categoryName" : "Potassium",
+          "total" : 130 ,
+          "completed" : 78.45,
+          "unit" : "mg"
+        },
+        {
+          "categoryName" : "Phosphorus",
+          "total" : 250 ,
+          "completed" : 250,
+          "unit" : "mg"
+        }
+      ]
+      ,
+      "activityPlan" : [
+        {
+          "categoryName" : "Steps",
+          "total" : 5000 ,
+          "completed" : 2800
+        }, 
+        {
+          "categoryName" : "Sleeping Hours",
+          "total" : 12,                              
+          "completed" : 8
+        }
+      ],
+      "fluidPlan" : [
+        {
+          "categoryName" : "Fluid Intake",
+          "total" : 5,
+          "completed" : 2,
+          "unit" : "ltr"
+        },
+        {
+          "categoryName" : "Urine Output",
+          "total" : 10,
+          "completed" : 5,
+          "unit" : ""
+        }
+      ],
       "lab_data": [
         {
           "id": 1,
@@ -65,7 +293,8 @@
           "date": "30-12-2021",
           "is_valid": true
         }
-      ]
+      ] 
+      
     }
   }
 }
