@@ -29,11 +29,7 @@
           "week_data": [
             { "value": 1, "label": "Mon" },
             { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 3, "label": "Wed" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -44,15 +40,7 @@
         },
         {
           "category_name": "FBG",
-          "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
-          ],
+          "week_data": [{ "value": 1, "label": "Mon" }],
           "days": [
             { "value": 0, "label": "Morning" },
             { "value": 1, "label": "Afternoon" },
@@ -82,12 +70,7 @@
           "category_name": "PPG",
           "week_data": [
             { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Tue" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -140,8 +123,7 @@
             { "value": 3, "label": "Wed" },
             { "value": 4, "label": "Thu" },
             { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 6, "label": "Sat" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -155,8 +137,6 @@
           "week_data": [
             { "value": 1, "label": "Mon" },
             { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
             { "value": 5, "label": "Fri" },
             { "value": 6, "label": "Sat" },
             { "value": 7, "label": "Sun" }
@@ -186,7 +166,6 @@
           ],
           "unit": null
         }
-
       ],
       "examination": "Patient is hypertensive and hypoglycemic",
       "diagnosis": "Patient is anxious and hypertensive",
@@ -221,69 +200,68 @@
           "medicine_id": "1Hbght"
         }
       ],
-      "nutritionPlan" : [
+      "nutritionPlan": [
         {
-          "categoryName" : "Meals" ,
-          "total" : 3,
-          "completed" : 1,
-          "unit" : "mg"
-        } , 
-        {
-          "categoryName" : "Calorie Intake",
-          "total" : 50 ,
-          "completed" : 25,
-          "unit" : "mg"
+          "categoryName": "Meals",
+          "total": 3,
+          "completed": 1,
+          "unit": "mg"
         },
         {
-          "categoryName" : "Sodium",
-          "total" : 200 ,
-          "completed" : 25,
-          "unit" : "mg"
-        }, 
-        {
-          "categoryName" : "Protein",
-          "total" : 500 ,
-          "completed" : 250,
-          "unit" : "mg"
+          "categoryName": "Calorie Intake",
+          "total": 50,
+          "completed": 25,
+          "unit": "mg"
         },
         {
-          "categoryName" : "Potassium",
-          "total" : 130 ,
-          "completed" : 78.45,
-          "unit" : "mg"
+          "categoryName": "Sodium",
+          "total": 200,
+          "completed": 25,
+          "unit": "mg"
         },
         {
-          "categoryName" : "Phosphorus",
-          "total" : 250 ,
-          "completed" : 250,
-          "unit" : "mg"
-        }
-      ]
-      ,
-      "activityPlan" : [
+          "categoryName": "Protein",
+          "total": 500,
+          "completed": 250,
+          "unit": "mg"
+        },
         {
-          "categoryName" : "Steps",
-          "total" : 5000 ,
-          "completed" : 2800
-        }, 
+          "categoryName": "Potassium",
+          "total": 130,
+          "completed": 78.45,
+          "unit": "mg"
+        },
         {
-          "categoryName" : "Sleeping Hours",
-          "total" : 12,                              
-          "completed" : 8
+          "categoryName": "Phosphorus",
+          "total": 250,
+          "completed": 250,
+          "unit": "mg"
         }
       ],
-      "fluidPlan" : [
+      "activityPlan": [
         {
-          "categoryName" : "Fluid Intake",
-          "total" : 5,
-          "completed" : 2,
-          "unit" : "ltr"
+          "categoryName": "Steps",
+          "total": 5000,
+          "completed": 2800
         },
         {
-          "categoryName" : "Urine Output",
-          "total" : 10,
-          "completed" : 5,
-          "unit" : ""
+          "categoryName": "Sleeping Hours",
+          "total": 12,
+          "completed": 8
+        }
+      ],
+      "fluidPlan": [
+        {
+          "categoryName": "Fluid Intake",
+          "total": 5,
+          "completed": 2,
+          "unit": "ltr"
+        },
+        {
+          "categoryName": "Urine Output",
+          "total": 10,
+          "completed": 5,
+          "unit": ""
         }
       ],
       "lab_data": [
@@ -293,8 +271,7 @@
           "date": "30-12-2021",
           "is_valid": true
         }
-      ] 
-      
+      ]
     }
   }
 }
