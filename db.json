@@ -192,7 +192,7 @@
           "name": "Calpol tablets",
           "dosage": "500mg",
           "frequency": "week",
-          "times_per_day": "null",
+          "times_per_day": null,
           "total_medicine_count": "7",
           "times_per_week": "once a week",
           "time_per_month": null,
