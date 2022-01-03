@@ -1,5 +1,6 @@
 {
   "plan_data": {
+    "prescription_id":1,
     "created_date": "30-12-2021",
     "follow_up_date": "04-01-2022",
     "prescribed_by": "Dr Chetan",
@@ -182,7 +183,7 @@
           "total_medicine_count": "5",
           "times_per_week": null,
           "time_per_month": null,
-          "notes": null,
+          "notes": "Please take your medicine",
           "medicine_id": "1Gwxkh"
         },
         {
@@ -196,7 +197,7 @@
           "total_medicine_count": "7",
           "times_per_week": "twice a day",
           "time_per_month": null,
-          "notes": null,
+          "notes": "Please take your medicine",
           "medicine_id": "1Hbght"
         },
         {
@@ -210,7 +211,7 @@
           "total_medicine_count": "7",
           "times_per_week": "four times a day",
           "time_per_month": null,
-          "notes": null,
+          "notes": "Please take your medicine",
           "medicine_id": "8Hwt12"
         },
         {
@@ -224,7 +225,7 @@
           "total_medicine_count": "7",
           "times_per_week": "once a month",
           "time_per_month": null,
-          "notes": null,
+          "notes": "Please take your medicine",
           "medicine_id": "4a20fb"
         }
       ],
