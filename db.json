@@ -173,8 +173,8 @@
       "medication": [
         {
           "id": 1,
-          "start_date": "30-12-2021",
-          "end_date": "04-01-2022",
+          "start_date": "03-01-2022",
+          "end_date": "07-01-2022",
           "name": "Dolo tablets",
           "dosage": "500mg",
           "frequency": "day",
@@ -187,8 +187,8 @@
         },
         {
           "id": 2,
-          "start_date": "30-12-2021",
-          "end_date": "06-01-2022",
+          "start_date": "03-01-2022",
+          "end_date": "10-01-2022",
           "name": "Calpol tablets",
           "dosage": "500mg",
           "frequency": "week",
@@ -201,8 +201,8 @@
         },
         {
           "id": 3,
-          "start_date": "30-12-2021",
-          "end_date": "06-01-2022",
+          "start_date": "03-01-2022",
+          "end_date": "03-01-2022",
           "name": "Melonax",
           "dosage": "500mg",
           "frequency": "month",
@@ -215,8 +215,8 @@
         },
         {
           "id": 4,
-          "start_date": "30-12-2021",
-          "end_date": "30-01-2022",
+          "start_date": "03-01-2022",
+          "end_date": "03-01-2022",
           "name": "Paracetamol",
           "dosage": "500mg",
           "frequency": "month",
