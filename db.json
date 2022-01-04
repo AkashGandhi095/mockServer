@@ -174,8 +174,8 @@
       "medication": [
         {
           "id": 1,
-          "start_date": "03-01-2022",
-          "end_date": "07-01-2022",
+          "start_date": "04-01-2022",
+          "end_date": "08-01-2022",
           "name": "Dolo tablets",
           "dosage": "500mg",
           "frequency": "day",
@@ -188,8 +188,8 @@
         },
         {
           "id": 2,
-          "start_date": "03-01-2022",
-          "end_date": "10-01-2022",
+          "start_date": "04-01-2022",
+          "end_date": "11-01-2022",
           "name": "Calpol tablets",
           "dosage": "500mg",
           "frequency": "week",
@@ -202,8 +202,8 @@
         },
         {
           "id": 3,
-          "start_date": "03-01-2022",
-          "end_date": "03-01-2022",
+          "start_date": "04-01-2022",
+          "end_date": "04-02-2022",
           "name": "Melonax",
           "dosage": "500mg",
           "frequency": "month",
@@ -216,15 +216,29 @@
         },
         {
           "id": 4,
-          "start_date": "03-01-2022",
-          "end_date": "03-01-2022",
+          "start_date": "04-01-2022",
+          "end_date": "18-01-2022",
           "name": "Paracetamol",
+          "dosage": "500mg",
+          "frequency": "week",
+          "times_per_day": null,
+          "total_medicine_count": "7",
+          "times_per_week": "once a week",
+          "time_per_month": null,
+          "notes": "Please take your medicine",
+          "medicine_id": "4a20fb"
+        } ,
+        {
+          "id": 5,
+          "start_date": "04-01-2022",
+          "end_date": "04-02-2022",
+          "name": "Flexon",
           "dosage": "500mg",
           "frequency": "month",
           "times_per_day": null,
           "total_medicine_count": "7",
-          "times_per_week": "once a month",
-          "time_per_month": null,
+          "times_per_week": null,
+          "time_per_month": "once a month",
           "notes": "Please take your medicine",
           "medicine_id": "4a20fb"
         }
