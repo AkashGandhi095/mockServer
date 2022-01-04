@@ -296,15 +296,15 @@
       "fluidPlan": [
         {
           "categoryName": "Fluid Intake",
-          "total": 5,
-          "completed": 2,
-          "unit": "ltr"
+          "total": 5000,
+          "completed": 0,
+          "unit": "ml"
         },
         {
           "categoryName": "Urine Output",
           "total": 10,
           "completed": 5,
-          "unit": ""
+          "unit": "ml"
         }
       ],
       "lab_data": [
