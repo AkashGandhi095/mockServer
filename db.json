@@ -285,12 +285,12 @@
         {
           "categoryName": "Steps",
           "total": 5000,
-          "completed": 2800
+          "completed": 0
         },
         {
           "categoryName": "Sleeping Hours",
           "total": 12,
-          "completed": 8
+          "completed": 0
         }
       ],
       "fluidPlan": [
@@ -302,8 +302,8 @@
         },
         {
           "categoryName": "Urine Output",
-          "total": 10,
-          "completed": 5,
+          "total": 1000,
+          "completed": 0,
           "unit": "ml"
         }
       ],
