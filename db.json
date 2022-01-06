@@ -2,7 +2,7 @@
   "plan_data": {
     "prescription_id":1,
     "created_date": "30-12-2021",
-    "follow_up_date": "04-01-2022",
+    "follow_up_date": "07-01-2022",
     "prescribed_by": "Dr Chetan",
     "raw_data": {
       "user_id": 198,
