@@ -10,13 +10,13 @@
         {
           "category_name": "BP",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" },
+            { "value": 1, "label": "Sun" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -28,9 +28,9 @@
         {
           "category_name": "Glucose",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -41,7 +41,7 @@
         },
         {
           "category_name": "FBG",
-          "week_data": [{ "value": 1, "label": "Mon" }],
+          "week_data": [{ "value": 2, "label": "Mon" }],
           "days": [
             { "value": 0, "label": "Morning" },
             { "value": 1, "label": "Afternoon" },
@@ -52,13 +52,13 @@
         {
           "category_name": "RBG",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" },
+            { "value": 1, "label": "Sun" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -70,8 +70,8 @@
         {
           "category_name": "PPG",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -83,13 +83,13 @@
         {
           "category_name": "Weight",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" },
+            { "value": 1, "label": "Sun" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -101,13 +101,13 @@
         {
           "category_name": "SpO2",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" },
+            { "value": 1, "label": "Sun" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -119,12 +119,12 @@
         {
           "category_name": "HeartRate",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
@@ -136,10 +136,10 @@
         {
           "category_name": "Temperature",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Fri" },
+            { "value": 5, "label": "Sat" },
             { "value": 7, "label": "Sun" }
           ],
           "days": [
@@ -152,13 +152,13 @@
         {
           "category_name": "Edema Check",
           "week_data": [
-            { "value": 1, "label": "Mon" },
-            { "value": 2, "label": "Tue" },
-            { "value": 3, "label": "Wed" },
-            { "value": 4, "label": "Thu" },
-            { "value": 5, "label": "Fri" },
-            { "value": 6, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
+            { "value": 2, "label": "Mon" },
+            { "value": 3, "label": "Tue" },
+            { "value": 4, "label": "Wed" },
+            { "value": 5, "label": "Thu" },
+            { "value": 6, "label": "Fri" },
+            { "value": 7, "label": "Sat" },
+            { "value": 1, "label": "Sun" }
           ],
           "days": [
             { "value": 0, "label": "Morning" },
