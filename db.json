@@ -2,7 +2,7 @@
   "plan_data": {
     "prescription_id":1,
     "created_date": "30-12-2021",
-    "follow_up_date": "07-01-2022",
+    "follow_up_date": "15-01-2022",
     "prescribed_by": "Dr Chetan",
     "raw_data": {
       "user_id": 198,
@@ -115,57 +115,6 @@
             { "value": 2, "label": "Evening" }
           ],
           "unit": null
-        },
-        {
-          "category_name": "HeartRate",
-          "week_data": [
-            { "value": 2, "label": "Mon" },
-            { "value": 3, "label": "Tue" },
-            { "value": 4, "label": "Wed" },
-            { "value": 5, "label": "Thu" },
-            { "value": 6, "label": "Fri" },
-            { "value": 7, "label": "Sat" }
-          ],
-          "days": [
-            { "value": 0, "label": "Morning" },
-            { "value": 1, "label": "Afternoon" },
-            { "value": 2, "label": "Evening" }
-          ],
-          "unit": null
-        },
-        {
-          "category_name": "Temperature",
-          "week_data": [
-            { "value": 2, "label": "Mon" },
-            { "value": 3, "label": "Tue" },
-            { "value": 4, "label": "Fri" },
-            { "value": 5, "label": "Sat" },
-            { "value": 7, "label": "Sun" }
-          ],
-          "days": [
-            { "value": 0, "label": "Morning" },
-            { "value": 1, "label": "Afternoon" },
-            { "value": 2, "label": "Evening" }
-          ],
-          "unit": null
-        },
-        {
-          "category_name": "Edema Check",
-          "week_data": [
-            { "value": 2, "label": "Mon" },
-            { "value": 3, "label": "Tue" },
-            { "value": 4, "label": "Wed" },
-            { "value": 5, "label": "Thu" },
-            { "value": 6, "label": "Fri" },
-            { "value": 7, "label": "Sat" },
-            { "value": 1, "label": "Sun" }
-          ],
-          "days": [
-            { "value": 0, "label": "Morning" },
-            { "value": 1, "label": "Afternoon" },
-            { "value": 2, "label": "Evening" }
-          ],
-          "unit": null
         }
       ],
       "examination": "Patient is hypertensive and hypoglycemic",
@@ -174,8 +123,8 @@
       "medication": [
         {
           "id": 1,
-          "start_date": "04-01-2022",
-          "end_date": "08-01-2022",
+          "start_date": "07-01-2022",
+          "end_date": "12-01-2022",
           "name": "Dolo tablets",
           "dosage": "500mg",
           "frequency": "day",
@@ -188,8 +137,8 @@
         },
         {
           "id": 2,
-          "start_date": "04-01-2022",
-          "end_date": "11-01-2022",
+          "start_date": "07-01-2022",
+          "end_date": "14-01-2022",
           "name": "Calpol tablets",
           "dosage": "500mg",
           "frequency": "week",
@@ -202,7 +151,7 @@
         },
         {
           "id": 3,
-          "start_date": "04-01-2022",
+          "start_date": "07-01-2022",
           "end_date": "04-02-2022",
           "name": "Melonax",
           "dosage": "500mg",
@@ -216,8 +165,8 @@
         },
         {
           "id": 4,
-          "start_date": "04-01-2022",
-          "end_date": "18-01-2022",
+          "start_date": "07-01-2022",
+          "end_date": "14-01-2022",
           "name": "Paracetamol",
           "dosage": "500mg",
           "frequency": "week",
@@ -230,7 +179,7 @@
         } ,
         {
           "id": 5,
-          "start_date": "04-01-2022",
+          "start_date": "07-01-2022",
           "end_date": "04-02-2022",
           "name": "Flexon",
           "dosage": "500mg",
@@ -261,24 +210,6 @@
           "total": 200,
           "completed": 25,
           "unit": "mg"
-        },
-        {
-          "categoryName": "Protein",
-          "total": 500,
-          "completed": 250,
-          "unit": "mg"
-        },
-        {
-          "categoryName": "Potassium",
-          "total": 130,
-          "completed": 78.45,
-          "unit": "mg"
-        },
-        {
-          "categoryName": "Phosphorus",
-          "total": 250,
-          "completed": 250,
-          "unit": "mg"
         }
       ],
       "activityPlan": [
@@ -286,23 +217,12 @@
           "categoryName": "Steps",
           "total": 5000,
           "completed": 0
-        },
-        {
-          "categoryName": "Sleeping Hours",
-          "total": 12,
-          "completed": 0
         }
       ],
       "fluidPlan": [
         {
           "categoryName": "Fluid Intake",
           "total": 5000,
-          "completed": 0,
-          "unit": "ml"
-        },
-        {
-          "categoryName": "Urine Output",
-          "total": 1000,
           "completed": 0,
           "unit": "ml"
         }
